@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Reviewer</Data></Cell>
+			<Cell><Data ss:Type="String">Movie</Data></Cell>
+			<Cell><Data ss:Type="String">ReviewText</Data></Cell>
+			<Cell><Data ss:Type="String">ReviewDate</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Divya</Data></Cell>
+			<Cell><Data ss:Type="String">Sound of Metal</Data></Cell>
+			<Cell><Data ss:Type="String">Smart, slick, and stylish.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tanvi</Data></Cell>
+			<Cell><Data ss:Type="String">The Grand Budapest Hotel</Data></Cell>
+			<Cell><Data ss:Type="String">Loved the direction and theme.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ritu</Data></Cell>
+			<Cell><Data ss:Type="String">Eternal Sunshine</Data></Cell>
+			<Cell><Data ss:Type="String">A classic.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sneha</Data></Cell>
+			<Cell><Data ss:Type="String">The Matrix</Data></Cell>
+			<Cell><Data ss:Type="String">It kept me on the edge the whole time.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-09</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Shruti</Data></Cell>
+			<Cell><Data ss:Type="String">Gone Girl</Data></Cell>
+			<Cell><Data ss:Type="String">Beautiful concept, well executed.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-09</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Suresh</Data></Cell>
+			<Cell><Data ss:Type="String">The Whale</Data></Cell>
+			<Cell><Data ss:Type="String">Inspirational and moving.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-09</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rakesh</Data></Cell>
+			<Cell><Data ss:Type="String">Barbie</Data></Cell>
+			<Cell><Data ss:Type="String">Brilliant acting by the lead star.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-09</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Simran</Data></Cell>
+			<Cell><Data ss:Type="String">Everything Everywhere All at Once</Data></Cell>
+			<Cell><Data ss:Type="String">Powerful performances by the lead.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sanjay</Data></Cell>
+			<Cell><Data ss:Type="String">The Dark Knight</Data></Cell>
+			<Cell><Data ss:Type="String">Could watch this again and again.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Bhavana</Data></Cell>
+			<Cell><Data ss:Type="String">1917</Data></Cell>
+			<Cell><Data ss:Type="String">Hits all the right notes.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Alok</Data></Cell>
+			<Cell><Data ss:Type="String">Forrest Gump</Data></Cell>
+			<Cell><Data ss:Type="String">Exceeded all my expectations.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Satish</Data></Cell>
+			<Cell><Data ss:Type="String">Inside Out</Data></Cell>
+			<Cell><Data ss:Type="String">Perfect for a movie night.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-08</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Meghna</Data></Cell>
+			<Cell><Data ss:Type="String">Doctor Strange</Data></Cell>
+			<Cell><Data ss:Type="String">Dialogue was powerful.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ayesha</Data></Cell>
+			<Cell><Data ss:Type="String">Blade Runner 2049</Data></Cell>
+			<Cell><Data ss:Type="String">Fantastic visuals and acting.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Arvind</Data></Cell>
+			<Cell><Data ss:Type="String">The Irishman</Data></Cell>
+			<Cell><Data ss:Type="String">Dark but satisfying.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Shalini</Data></Cell>
+			<Cell><Data ss:Type="String">Interstellar</Data></Cell>
+			<Cell><Data ss:Type="String">A visual treat with a meaningful message.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kiran</Data></Cell>
+			<Cell><Data ss:Type="String">The Social Network</Data></Cell>
+			<Cell><Data ss:Type="String">Visually stunning.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vikram</Data></Cell>
+			<Cell><Data ss:Type="String">Arrival</Data></Cell>
+			<Cell><Data ss:Type="String">A family favorite.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-07</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Gaurav</Data></Cell>
+			<Cell><Data ss:Type="String">Avengers: Endgame</Data></Cell>
+			<Cell><Data ss:Type="String">Incredible action sequences.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Rajeev</Data></Cell>
+			<Cell><Data ss:Type="String">The Theory of Everything</Data></Cell>
+			<Cell><Data ss:Type="String">Suspenseful and intense.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Manoj</Data></Cell>
+			<Cell><Data ss:Type="String">La La Land</Data></Cell>
+			<Cell><Data ss:Type="String">Great mix of humor and heart.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kavita</Data></Cell>
+			<Cell><Data ss:Type="String">Black Panther</Data></Cell>
+			<Cell><Data ss:Type="String">Thought-provoking and beautifully executed.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Neelam</Data></Cell>
+			<Cell><Data ss:Type="String">The Prestige</Data></Cell>
+			<Cell><Data ss:Type="String">Left a lasting impression.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Neha</Data></Cell>
+			<Cell><Data ss:Type="String">The Shape of Water</Data></Cell>
+			<Cell><Data ss:Type="String">Not as good as expected.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Yogesh</Data></Cell>
+			<Cell><Data ss:Type="String">Turning Red</Data></Cell>
+			<Cell><Data ss:Type="String">Leaves you thinking.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-06</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Tarun</Data></Cell>
+			<Cell><Data ss:Type="String">Encanto</Data></Cell>
+			<Cell><Data ss:Type="String">Didn’t live up to the hype.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-05</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Arjun</Data></Cell>
+			<Cell><Data ss:Type="String">Knives Out</Data></Cell>
+			<Cell><Data ss:Type="String">Really enjoyable with great pacing.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-05</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Kiran</Data></Cell>
+			<Cell><Data ss:Type="String">Get Out</Data></Cell>
+			<Cell><Data ss:Type="String">The movie was fine, but dragged in the middle.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-05</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Farhan</Data></Cell>
+			<Cell><Data ss:Type="String">Top Gun: Maverick</Data></Cell>
+			<Cell><Data ss:Type="String">An unforgettable film.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-05</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Preeti</Data></Cell>
+			<Cell><Data ss:Type="String">Bohemian Rhapsody</Data></Cell>
+			<Cell><Data ss:Type="String">Unique and captivating plot.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-05</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jitendra</Data></Cell>
+			<Cell><Data ss:Type="String">Coco</Data></Cell>
+			<Cell><Data ss:Type="String">Just brilliant.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-05</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ajay</Data></Cell>
+			<Cell><Data ss:Type="String">Soul</Data></Cell>
+			<Cell><Data ss:Type="String">Strong plot and pacing.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-04</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mohit</Data></Cell>
+			<Cell><Data ss:Type="String">Parasite</Data></Cell>
+			<Cell><Data ss:Type="String">Incredible world-building.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-04</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Amit</Data></Cell>
+			<Cell><Data ss:Type="String">Gladiator</Data></Cell>
+			<Cell><Data ss:Type="String">Dark, gritty, and brilliant.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-04</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Anjali</Data></Cell>
+			<Cell><Data ss:Type="String">Edge of Tomorrow</Data></Cell>
+			<Cell><Data ss:Type="String">Soundtrack and cinematography were top-notch.</Data></Cell>
+			<Cell><Data ss:Type="String">2025-07-04</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

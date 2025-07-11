@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Genre</Data></Cell>
+			<Cell><Data ss:Type="String">TotalRatings</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Drama</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Action</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sci-Fi</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Thriller</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Animation</Data></Cell>
+			<Cell><Data ss:Type="String">5</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Musical</Data></Cell>
+			<Cell><Data ss:Type="String">4</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Romance</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Comedy</Data></Cell>
+			<Cell><Data ss:Type="String">2</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Adventure</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Fantasy</Data></Cell>
+			<Cell><Data ss:Type="String">1</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
